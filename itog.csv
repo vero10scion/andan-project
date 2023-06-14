@@ -1,0 +1,680 @@
+COUNTRY,Unnamed: 0,Q_OF_LIFE,POLLUTION,PRICE_TO_INCOME_RATIO,YEAR,CRIME,GDP,GDP_PER_CAP,TAX,Regional indicator
+Switzerland,0,194.1,35.5,6.5,2012,25.8,692109693986.886,86547.6708907265,progressive,Western Europe
+Germany,1,184.4,45.1,4.8,2012,21.2,3527344944139.83,43858.3630551076,progressive,Western Europe
+Norway,2,183.4,19.2,7.1,2012,19.1,509506317146.541,101524.141851985,progressive,Western Europe
+United Arab Emirates,3,177.1,69.2,4.5,2012,35.9,374590605854.323,40976.4907464015,proportional,Middle East and North Africa
+New Zealand,4,174.3,17.1,5.7,2012,46.8,176206659722.524,39973.3807587223,progressive,North America and ANZ
+Sweden,5,171.7,32.5,9.0,2012,36.2,552483727282.802,58037.8213192173,progressive,Western Europe
+Canada,6,165.0,41.6,4.9,2012,39.8,1828366481521.6,52669.0899632316,progressive,North America and ANZ
+Denmark,7,163.1,34.2,6.1,2012,45.3,327148943812.137,58507.5080517852,progressive,Western Europe
+Australia,8,162.0,37.2,6.9,2012,40.6,1546508558465.66,68027.8417067378,progressive,North America and ANZ
+Austria,9,159.9,42.8,6.7,2012,44.1,409425234155.263,48567.69528642,progressive,Western Europe
+Netherlands,10,158.1,41.7,6.3,2012,28.4,838971306990.906,50073.0056559308,progressive,Western Europe
+United States,11,140.6,61.3,2.8,2012,64.9,16197007349000.0,51602.9310457907,progressive,North America and ANZ
+Japan,12,130.5,52.5,16.9,2012,5.7,6272362996105.03,49145.2804308193,progressive,East Asia
+Ireland,13,125.1,45.2,5.9,2012,46.1,225509709550.982,49028.827394212,progressive,Western Europe
+Slovenia,14,121.9,35.0,13.4,2012,35.7,46580457470.2769,22643.1002515007,progressive,Central and Eastern Europe
+France,15,119.5,61.8,10.5,2012,44.8,2683825225092.63,40874.7003927338,progressive,Western Europe
+Israel,16,118.2,48.8,9.5,2012,40.8,258417104163.53,32667.6068723254,progressive,Middle East and North Africa
+United Kingdom,17,110.1,64.4,7.4,2012,46.0,2719158341005.79,42686.8000524926,progressive,Western Europe
+Portugal,18,105.1,51.9,7.8,2012,40.6,216236608773.976,20564.8898617969,progressive,Western Europe
+Spain,19,100.9,85.6,9.9,2012,33.0,1324820091194.67,28324.4293363918,progressive,Western Europe
+Belgium,20,100.7,88.3,6.3,2012,40.6,496181260258.3,44673.1158755901,progressive,Western Europe
+Croatia,21,93.1,49.9,11.6,2012,32.4,57192346923.335,13401.6566203283,progressive,Central and Eastern Europe
+Czech Republic,22,88.1,66.0,11.0,2012,36.6,208857719320.649,19870.8012123403,proportional,Central and Eastern Europe
+Singapore,23,87.1,70.8,17.2,2012,20.2,295087220933.024,55546.4885386921,progressive,Southeast Asia
+South Africa,24,83.6,89.0,3.0,2012,78.1,434400545085.811,8222.19727925886,progressive,Sub-Saharan Africa
+Saudi Arabia,25,71.0,112.5,2.8,2012,32.5,735974843360.0,25243.6019982366,progressive,Middle East and North Africa
+Turkey,26,66.7,89.2,5.6,2012,26.4,880556375779.51,11795.6334567571,progressive,Middle East and North Africa
+Malaysia,27,65.3,91.2,4.8,2012,70.9,314443149443.149,10817.4317100783,progressive,Southeast Asia
+Poland,28,60.6,83.8,12.3,2012,38.7,498523568248.119,13097.2708482174,progressive,Central and Eastern Europe
+Mexico,29,60.3,93.5,5.8,2012,62.5,1201089987015.45,10241.727828043,progressive,Latin America and Caribbean
+Italy,30,49.7,85.5,12.6,2012,56.7,2087077032435.15,35053.5262442572,progressive,Western Europe
+Hungary,31,48.7,90.2,10.6,2012,30.5,128857370476.631,12989.1802815896,progressive,Central and Eastern Europe
+India,32,44.0,102.9,9.8,2012,45.6,1827637859135.7,1443.88243476138,progressive,South Asia
+Indonesia,33,37.2,43.8,39.8,2012,23.9,917869910105.749,3694.35933980214,progressive,Southeast Asia
+Serbia,34,34.6,81.0,19.5,2012,28.7,43309252921.0567,6015.94522756969,progressive,Central and Eastern Europe
+Argentina,35,32.6,90.0,11.8,2012,48.4,545982375701.128,13082.664325572,progressive,Latin America and Caribbean
+Bulgaria,36,30.8,98.5,10.3,2012,41.4,54300857424.4415,7432.47876568071,proportional,Central and Eastern Europe
+Bosnia And Herzegovina,37,28.0,112.4,10.9,2012,40.3,17221190000.0,4777.066914,progressive,Central and Eastern Europe
+Romania,38,25.5,91.9,15.6,2012,29.6,170635805316.879,8507.10477456436,progressive,Central and Eastern Europe
+Thailand,39,24.9,101.6,16.7,2012,39.7,397558222957.17,5860.58147053475,progressive,Southeast Asia
+Colombia,40,23.4,91.5,14.4,2012,47.2,370921320483.842,8050.25537167051,progressive,Latin America and Caribbean
+Greece,41,23.3,87.8,11.1,2012,52.0,242043151399.458,21914.2517286273,progressive,Western Europe
+Chile,42,21.0,103.8,9.4,2012,56.4,267122320056.772,15351.5407387153,progressive,Latin America and Caribbean
+Brazil,43,10.8,82.9,15.3,2012,59.3,2465228293894.01,12370.2232548476,progressive,Latin America and Caribbean
+Pakistan,44,-3.1,101.3,20.2,2012,58.7,224383620829.57,1198.11763704007,progressive,South Asia
+Philippines,45,-3.8,116.7,8.7,2012,53.1,261920509949.785,2694.30510933651,progressive,Southeast Asia
+Russia,46,-7.4,104.7,14.4,2012,50.6,2208296000000.0,15420.874541,proportional,Commonwealth of Independent States
+Ukraine,47,-14.6,100.2,16.7,2012,55.4,182592416468.527,4004.8043959692,proportional,Commonwealth of Independent States
+Egypt,48,-22.2,125.7,11.8,2012,44.3,279116700000.0,3229.68563,progressive,Middle East and North Africa
+Iran,49,-35.2,131.8,12.5,2012,51.9,598868500000.0,7927.844908,proportional,Middle East and North Africa
+China,50,-49.5,122.8,29.9,2012,44.5,8532229986993.65,6300.61511825789,progressive,East Asia
+Switzerland,51,215.7,23.0,6.2,2013,27.6,712748124222.61,88109.4867524037,progressive,Western Europe
+Germany,52,204.8,28.4,5.0,2013,23.9,3732743446218.92,46285.7640688407,progressive,Western Europe
+United States,53,199.6,32.5,2.2,2013,53.4,16784849196000.0,53106.5367672165,progressive,North America and ANZ
+Sweden,54,191.4,18.8,8.8,2013,31.8,586841821796.891,61126.9431963979,progressive,Western Europe
+Canada,55,186.0,26.5,5.1,2013,35.0,1846597421834.98,52635.1749580433,progressive,North America and ANZ
+United Arab Emirates,56,186.0,58.4,4.4,2013,18.0,390107556160.654,42412.6395002704,progressive,Middle East and North Africa
+Denmark,57,182.3,34.3,7.0,2013,30.7,343584391647.927,61191.1937042028,progressive,Western Europe
+Norway,58,173.9,23.4,7.3,2013,25.6,522761531914.894,102913.450843674,progressive,Western Europe
+Qatar,59,169.9,82.8,5.4,2013,26.2,198727642967.033,85050.6843410957,proportional,Middle East and North Africa
+Austria,60,167.4,28.8,8.8,2013,30.4,430068712971.867,50716.7087062864,progressive,Western Europe
+Finland,61,167.2,18.5,9.4,2013,32.7,271285280621.373,49878.0432444536,progressive,Western Europe
+Australia,62,165.8,20.9,8.1,2013,44.4,1576335282651.07,68156.6279162085,progressive,North America and ANZ
+New Zealand,63,163.2,21.8,5.9,2013,41.8,190906575136.003,42976.6495882584,progressive,North America and ANZ
+Netherlands,64,160.5,28.1,6.3,2013,37.5,876923518850.405,52184.0618504931,progressive,Western Europe
+Japan,65,159.8,33.7,8.3,2013,13.1,5212328181166.18,40898.6478964744,progressive,East Asia
+Estonia,66,154.9,16.4,9.3,2013,24.2,25108615091.9884,19050.5859209,proportional,Central and Eastern Europe
+France,67,151.4,41.3,8.4,2013,51.1,2811077725703.59,42592.9353850549,progressive,Western Europe
+Ireland,68,149.6,29.8,5.5,2013,45.0,238211547205.677,51518.3881031765,progressive,Western Europe
+United Kingdom,69,148.1,36.0,6.7,2013,39.8,2803291406029.93,43713.8141242308,progressive,Western Europe
+Belgium,70,146.7,49.6,6.7,2013,42.9,521642714407.843,46744.6625441516,progressive,Western Europe
+Spain,71,141.1,46.5,9.6,2013,34.1,1354757433212.72,29059.5479522321,progressive,Western Europe
+Saudi Arabia,72,140.5,80.5,3.1,2013,31.7,746647127413.333,24845.1246637862,progressive,Middle East and North Africa
+South Korea,73,135.6,75.6,12.5,2013,17.4,1370795000000.0,27182.73431,progressive,East Asia
+Slovenia,74,133.6,28.2,12.1,2013,29.6,48401896808.3064,23496.602499332,progressive,Central and Eastern Europe
+South Africa,75,123.8,59.0,3.2,2013,76.7,400886013595.573,7467.07918510394,progressive,Sub-Saharan Africa
+Czech Republic,76,122.2,40.1,10.0,2013,34.1,211685616592.931,20133.1691431353,proportional,Central and Eastern Europe
+Taiwan,77,120.6,71.5,9.0,2013,16.3,,,progressive,Southeast Asia
+Portugal,78,119.8,35.0,8.1,2013,35.0,226369502104.236,21647.0418118869,progressive,Western Europe
+Puerto Rico,79,117.9,54.0,3.9,2013,70.5,102450000000.0,28513.1657351067,progressive,Latin America and Caribbean
+Slovakia,80,114.6,34.4,7.9,2013,35.2,98541310000.0,18203.242488,proportional,Central and Eastern Europe
+Lithuania,81,114.0,25.2,13.6,2013,34.6,46523420074.4372,15729.6524666512,proportional,Central and Eastern Europe
+Israel,82,99.3,59.5,10.3,2013,48.3,294167366504.266,36499.4561082284,progressive,Middle East and North Africa
+Hong Kong,83,94.3,64.9,23.9,2013,16.6,275696900000.0,38403.777715,progressive,East Asia
+Poland,84,90.5,50.0,13.0,2013,38.9,521016262734.924,13696.4663046143,progressive,Central and Eastern Europe
+Croatia,85,88.9,42.0,13.1,2013,32.3,58889082315.336,13837.7316376587,progressive,Central and Eastern Europe
+Mexico,86,87.9,66.1,5.7,2013,56.2,1274443084716.57,10725.1835873796,progressive,Latin America and Caribbean
+Italy,87,87.4,58.9,13.0,2013,49.5,2141315327318.21,35549.9746972954,progressive,Western Europe
+Panama,88,86.8,48.1,10.8,2013,48.5,45599994004.8873,11889.0950663345,progressive,Latin America and Caribbean
+Hungary,89,85.6,53.3,10.7,2013,33.7,135732595721.853,13719.9505393621,progressive,Central and Eastern Europe
+Malaysia,90,79.7,67.4,6.8,2013,67.7,323277158906.979,10970.1042996033,progressive,Southeast Asia
+Uruguay,91,78.3,30.5,11.5,2013,45.0,57531233350.9101,16973.6892364718,progressive,Latin America and Caribbean
+Turkey,92,74.8,82.0,6.2,2013,35.2,957783020853.031,12614.7816100386,progressive,Middle East and North Africa
+India,93,73.7,77.5,10.0,2013,42.1,1856722121394.53,1449.61045069641,progressive,South Asia
+Chile,94,72.6,74.2,9.2,2013,40.3,278384332694.3,15842.936483624,progressive,Latin America and Caribbean
+Argentina,95,72.5,55.6,10.2,2013,59.3,552025140252.246,13080.2547323367,progressive,Latin America and Caribbean
+Bosnia And Herzegovina,96,71.6,67.6,11.7,2013,43.3,18172340000.0,5129.663534,progressive,Central and Eastern Europe
+Singapore,97,69.2,49.5,25.1,2013,20.0,307576360584.992,56967.4257940383,progressive,Southeast Asia
+Serbia,98,63.7,52.8,17.2,2013,41.2,48394239474.6762,6755.07367461629,progressive,Central and Eastern Europe
+Romania,99,57.8,63.3,14.3,2013,30.0,190801346194.297,9547.85215096612,progressive,Central and Eastern Europe
+Greece,100,55.5,62.7,11.6,2013,49.8,238839788899.338,21781.5953472612,progressive,Western Europe
+Thailand,101,54.1,72.1,18.3,2013,40.5,420333203150.426,6168.26135569944,progressive,Southeast Asia
+Bulgaria,102,53.7,78.9,10.1,2013,41.5,55810138436.4821,7681.93461995882,proportional,Central and Eastern Europe
+Brazil,103,48.2,56.5,13.3,2013,62.6,2472819362216.69,12300.3867121004,progressive,Latin America and Caribbean
+Ecuador,104,37.7,58.5,13.3,2013,59.7,95129659000.0,6056.33121253813,progressive,Latin America and Caribbean
+Georgia,105,35.7,64.8,33.8,2013,19.6,17189551520.9811,4623.74572473419,progressive,Commonwealth of Independent States
+Colombia,106,35.1,68.3,15.5,2013,54.2,382116126448.555,8218.34784431478,progressive,Latin America and Caribbean
+Ukraine,107,31.9,67.3,15.4,2013,48.9,190498811460.028,4187.73984489895,proportional,Commonwealth of Independent States
+China,108,31.5,89.3,22.2,2013,26.9,9570406235659.64,7020.33848453658,progressive,East Asia
+Philippines,109,21.1,74.8,16.4,2013,54.9,283902728259.788,2871.42970134837,progressive,Southeast Asia
+Russia,110,18.5,78.3,12.4,2013,52.4,2292473000000.0,15974.644627,progressive,Commonwealth of Independent States
+Mongolia,111,14.1,89.0,13.0,2013,46.9,12582122604.1921,4366.08953699572,progressive,East Asia
+Lebanon,112,12.5,88.0,18.4,2013,47.3,46909335550.6109,7933.23331961404,progressive,Middle East and North Africa
+Pakistan,113,7.7,87.0,17.5,2013,61.5,231218567178.979,1208.91771020458,progressive,South Asia
+Egypt,114,7.6,89.9,12.3,2013,48.7,288434100000.0,3262.657586,progressive,Middle East and North Africa
+Iran,115,-7.0,90.2,16.3,2013,56.1,460293100000.0,6018.3229,proportional,Middle East and North Africa
+Indonesia,116,-12.5,85.1,24.8,2013,40.5,912524136718.018,3623.92724054274,progressive,Southeast Asia
+Venezuela,117,-48.3,81.9,20.8,2013,85.7,371005400000.0,12457.768602,progressive,Latin America and Caribbean
+Switzerland,118,206.2,26.8,7.1,2014,31.8,734396591036.932,89684.7075795936,progressive,Western Europe
+United States,119,195.5,35.1,2.4,2014,50.1,17527163695000.0,55049.9883272312,progressive,North America and ANZ
+Germany,120,192.7,30.2,5.6,2014,27.1,3883920155292.26,47959.9932737599,progressive,Western Europe
+Sweden,121,180.9,17.5,9.4,2014,38.3,581964017237.095,60020.3604576572,progressive,Western Europe
+Finland,122,178.9,16.7,7.8,2014,29.2,274497230802.958,50260.2998588958,progressive,Western Europe
+Denmark,123,178.6,34.8,6.4,2014,29.3,352993631617.708,62548.9847332908,progressive,Western Europe
+Canada,124,178.3,27.7,5.6,2014,36.3,1805749878439.94,50955.9983232404,progressive,North America and ANZ
+Australia,125,176.0,19.4,7.4,2014,41.2,1467504819608.92,62511.6905895284,progressive,North America and ANZ
+United Arab Emirates,126,173.3,53.8,5.3,2014,20.8,403137100068.074,43751.8056478669,progressive,Middle East and North Africa
+Austria,127,171.8,31.7,9.2,2014,25.8,441996131736.508,51717.4959405515,progressive,Western Europe
+New Zealand,128,168.6,21.0,5.3,2014,42.9,201313497220.917,44572.8987536626,progressive,North America and ANZ
+Japan,129,168.5,40.8,8.3,2014,18.1,4896994405353.29,38475.3952461838,progressive,East Asia
+Norway,130,168.4,22.6,7.4,2014,33.7,498410050251.256,97019.1827527462,progressive,Western Europe
+Netherlands,131,161.0,32.4,6.1,2014,37.1,890981311077.658,52830.1742328055,progressive,Western Europe
+United Kingdom,132,151.0,33.8,7.7,2014,42.6,3087165602962.86,47787.2412984884,progressive,Western Europe
+Estonia,133,145.4,13.4,10.2,2014,29.1,26598657880.5486,20234.1174174704,progressive,Central and Eastern Europe
+Ireland,134,142.4,29.3,5.7,2014,53.6,258625192663.58,55525.8972513665,progressive,Western Europe
+Kuwait,135,141.4,60.0,6.8,2014,36.4,162631412508.784,44062.3409134598,progressive,Middle East and North Africa
+Saudi Arabia,136,139.9,71.5,3.2,2014,29.4,756350347333.333,24464.2125570307,progressive,Middle East and North Africa
+France,137,136.3,46.9,10.3,2014,47.3,2852165760630.27,43011.2631028417,progressive,Western Europe
+Belgium,138,134.7,56.2,6.0,2014,41.5,534678075827.361,47700.5403601178,progressive,Western Europe
+Slovenia,139,125.6,33.0,11.1,2014,33.2,49930685013.4603,24214.9220717273,progressive,Central and Eastern Europe
+Portugal,140,124.7,30.9,8.4,2014,35.1,229596170846.995,22074.3007634216,progressive,Western Europe
+Puerto Rico,141,123.6,47.4,5.1,2014,59.3,102445800000.0,28981.4573305866,progressive,Latin America and Caribbean
+Spain,142,123.6,49.8,10.5,2014,32.4,1369398844599.58,29461.5503337389,progressive,Western Europe
+Czech Republic,143,123.0,38.3,10.4,2014,33.9,209358834156.329,19890.9199056648,proportional,Central and Eastern Europe
+Lithuania,144,121.9,21.1,12.9,2014,34.7,48533659592.1728,16551.018202078,proportional,Central and Eastern Europe
+South Korea,145,117.9,74.2,11.4,2014,16.3,1484318000000.0,29249.575221,progressive,East Asia
+Taiwan,146,114.1,70.8,17.3,2014,21.5,,,progressive,Southeast Asia
+South Africa,147,111.6,57.9,3.4,2014,78.5,381198869776.106,6988.80873854682,progressive,Sub-Saharan Africa
+Slovakia,148,108.7,40.8,9.5,2014,32.7,100954700000.0,18630.97598,proportional,Central and Eastern Europe
+Croatia,149,108.7,28.7,13.4,2014,28.9,58330289756.6914,13762.3728630599,progressive,Central and Eastern Europe
+Poland,150,95.2,50.5,11.4,2014,37.5,542477096211.761,14271.3058536202,progressive,Central and Eastern Europe
+Uruguay,151,91.9,21.3,11.6,2014,46.6,57236013086.1223,16831.9481943721,progressive,Latin America and Caribbean
+Israel,152,91.2,63.8,12.8,2014,33.3,310944937638.436,37847.6499432106,progressive,Middle East and North Africa
+Italy,153,90.6,60.4,12.2,2014,45.6,2159133919743.77,35518.4152916749,progressive,Western Europe
+Malaysia,154,89.1,61.1,8.0,2014,66.4,338061963396.376,11319.0619448482,progressive,Southeast Asia
+Singapore,155,88.0,41.9,22.6,2014,21.3,314851156183.411,57562.5307937678,progressive,Southeast Asia
+Mexico,156,83.5,71.2,6.5,2014,52.5,1315351183524.54,10928.9160089988,progressive,Latin America and Caribbean
+Hungary,157,83.2,48.3,9.6,2014,37.5,141078984816.675,14298.833667395,progressive,Central and Eastern Europe
+Argentina,158,81.1,57.5,9.0,2014,57.5,526319673731.638,12334.7982453893,progressive,Latin America and Caribbean
+India,159,78.0,74.3,10.2,2014,43.7,2039127446298.55,1573.88564182956,progressive,South Asia
+Greece,160,77.5,45.3,11.7,2014,43.0,235144949470.797,21587.9575508932,progressive,Western Europe
+Bosnia And Herzegovina,161,74.6,58.2,12.0,2014,45.0,18560860000.0,5330.355075,progressive,Central and Eastern Europe
+Belarus,162,74.4,42.7,16.8,2014,32.9,78813839984.3506,8341.39967861093,proportional,Commonwealth of Independent States
+Hong Kong,163,73.2,63.8,27.1,2014,22.7,291459400000.0,40315.285564,progressive,East Asia
+Chile,164,69.3,71.0,9.5,2014,47.1,260541637327.855,14670.9889142695,progressive,Latin America and Caribbean
+Serbia,165,69.3,49.6,16.9,2014,39.3,47062206677.6539,6600.05680854589,progressive,Central and Eastern Europe
+Turkey,166,67.8,77.1,6.9,2014,40.0,938952628604.067,12157.9904337823,progressive,Middle East and North Africa
+Romania,167,63.3,62.6,13.2,2014,28.7,199959363430.073,10043.6774497614,progressive,Central and Eastern Europe
+Bulgaria,168,62.6,66.7,9.9,2014,40.0,57082011260.3446,7901.78587639382,proportional,Central and Eastern Europe
+Thailand,169,56.6,71.1,19.1,2014,37.6,407339454060.678,5951.88348654008,progressive,Southeast Asia
+Ecuador,170,42.3,53.7,12.7,2014,60.0,101726331000.0,6377.09392877257,progressive,Latin America and Caribbean
+Kazakhstan,171,40.6,74.4,11.3,2014,49.4,221415572819.5,12807.2606866152,progressive,Commonwealth of Independent States
+Jordan,172,39.5,81.8,7.9,2014,47.6,36847643521.1268,4131.44735046027,progressive,Middle East and North Africa
+Brazil,173,38.8,57.6,15.0,2014,67.0,2456043766028.73,12112.8349554875,progressive,Latin America and Caribbean
+Colombia,174,36.5,65.7,14.2,2014,58.5,381112119657.446,8114.34392085161,progressive,Latin America and Caribbean
+China,175,30.3,84.7,26.1,2014,30.1,10475682920597.7,7636.11660125502,progressive,East Asia
+Philippines,176,28.1,74.9,18.8,2014,41.9,297483247100.855,2959.64543521167,progressive,Southeast Asia
+Pakistan,177,22.3,80.3,13.9,2014,63.8,244360888750.807,1251.17571867949,progressive,South Asia
+Ukraine,178,22.2,73.3,16.0,2014,49.4,133503411375.739,3104.64320609541,proportional,Commonwealth of Independent States
+Indonesia,179,21.8,73.8,18.8,2014,46.7,890814755233.225,3491.63749125449,progressive,Southeast Asia
+Lebanon,180,18.4,86.7,18.3,2014,50.1,48133414840.4075,7687.75933612491,progressive,Middle East and North Africa
+Russia,181,16.5,76.5,14.7,2014,52.7,2059242000000.0,14095.648743,proportional,Commonwealth of Independent States
+Egypt,182,5.4,91.2,11.1,2014,52.4,305595400000.0,3379.557986,progressive,Middle East and North Africa
+Iran,183,-11.1,86.1,20.6,2014,55.0,432687000000.0,5585.525604,proportional,Middle East and North Africa
+Mongolia,184,-26.7,95.0,15.7,2014,66.2,12226514722.0861,4158.52147149753,progressive,East Asia
+Venezuela,185,-39.3,74.0,20.2,2014,81.5,482359300000.0,16055.645317,progressive,Latin America and Caribbean
+Switzerland,186,222.9,24.1,7.3,2015,26.8,702149580770.901,84776.1421659748,progressive,Western Europe
+Germany,187,195.9,28.3,6.6,2015,28.5,3356235704119.75,41086.7296737253,progressive,Western Europe
+Sweden,188,193.9,15.1,9.2,2015,42.1,505103781349.757,51545.4836095322,progressive,Western Europe
+United States,189,192.5,31.4,2.6,2015,50.0,18238300569000.0,56863.3714957652,progressive,North America and ANZ
+Finland,190,190.2,14.9,7.0,2015,29.5,234440080998.273,42784.6983616432,progressive,Western Europe
+Denmark,191,190.2,31.8,5.0,2015,25.7,302673070846.857,53254.8563700916,progressive,Western Europe
+Austria,192,182.6,34.0,9.6,2015,26.2,381817565893.574,44178.0473777432,progressive,Western Europe
+Australia,193,180.8,21.6,7.1,2015,42.2,1350534154255.76,56707.0220772116,progressive,North America and ANZ
+Canada,194,177.6,27.3,5.5,2015,37.5,1556508816217.14,43596.1355365546,progressive,North America and ANZ
+New Zealand,195,175.5,17.6,5.8,2015,39.8,178064471137.921,38630.7265886928,progressive,North America and ANZ
+Norway,196,175.1,23.7,7.7,2015,31.2,385801550067.169,74355.5158575643,progressive,Western Europe
+Saudi Arabia,197,169.4,71.0,3.1,2015,34.6,654269902880.0,20627.9269288204,progressive,Middle East and North Africa
+Japan,198,168.3,38.2,9.2,2015,20.2,4444930651964.18,34960.6393843385,progressive,East Asia
+Netherlands,199,166.8,35.0,6.2,2015,35.4,765264949780.999,45175.2318933798,progressive,Western Europe
+Turkmenistan,200,157.1,28.4,13.0,2015,17.9,35799714285.7143,6432.68532538494,progressive,Commonwealth of Independent States
+United Kingdom,201,156.9,34.0,8.6,2015,42.0,2956573778737.76,45404.5677734722,progressive,Western Europe
+Cyprus,202,154.9,32.9,7.4,2015,31.6,19842404304.8929,23408.3366816249,progressive,Western Europe
+United Arab Emirates,203,153.7,61.3,6.2,2015,22.2,358135057862.492,38663.4005026605,progressive,Middle East and North Africa
+Ireland,204,148.9,28.0,6.1,2015,49.1,291462799328.949,61987.5509982224,progressive,Western Europe
+Qatar,205,144.9,87.7,6.6,2015,21.0,161739955576.923,63039.1126258027,proportional,Middle East and North Africa
+Estonia,206,144.6,15.5,11.6,2015,28.1,22881558191.8523,17395.040616214,proportional,Central and Eastern Europe
+France,207,139.3,45.9,9.7,2015,49.7,2438207896251.84,36638.184929157,progressive,Western Europe
+Belgium,208,136.0,53.8,6.5,2015,42.0,462149679343.822,40991.8081381432,progressive,Western Europe
+Spain,209,134.9,46.3,9.6,2015,33.9,1195119269971.52,25732.0183647454,progressive,Western Europe
+Slovenia,210,134.5,31.4,10.6,2015,28.7,43090173394.6913,20881.7669299329,progressive,Central and Eastern Europe
+Portugal,211,129.2,32.6,8.3,2015,35.8,199313894327.486,19242.3664710981,progressive,Western Europe
+Czech Republic,212,127.5,42.9,10.6,2015,32.9,188033050459.881,17829.6983223668,proportional,Central and Eastern Europe
+Puerto Rico,213,125.7,48.0,4.5,2015,67.1,103375500000.0,29763.4883013861,progressive,Latin America and Caribbean
+Kuwait,214,123.4,59.6,6.1,2015,43.5,114567298105.683,29869.552753237,progressive,Middle East and North Africa
+Israel,215,120.4,65.2,10.7,2015,30.4,300078278118.434,35808.4364289727,progressive,Middle East and North Africa
+South Korea,216,120.0,77.1,11.0,2015,18.0,1465773000000.0,28732.231076,progressive,East Asia
+Lithuania,217,112.9,29.6,12.9,2015,36.7,41418872976.1196,14258.2293345128,proportional,Central and Eastern Europe
+Croatia,218,112.3,32.8,12.5,2015,29.3,50163192883.1515,11933.3773788281,progressive,Central and Eastern Europe
+Singapore,219,111.3,40.4,21.4,2015,17.6,308004146057.608,55646.6187469505,progressive,Southeast Asia
+South Africa,220,110.9,65.2,3.1,2015,78.4,346709790458.563,6259.83968110571,progressive,Sub-Saharan Africa
+Poland,221,109.7,50.6,10.6,2015,33.0,477811911394.084,12578.4954734362,progressive,Central and Eastern Europe
+Slovakia,222,109.1,47.9,8.6,2015,33.3,88601290000.0,16335.645398,proportional,Central and Eastern Europe
+Italy,223,101.0,57.7,11.7,2015,47.5,1835899237320.04,30230.2263021296,progressive,Western Europe
+Latvia,224,99.0,43.4,12.2,2015,37.2,27252128626.6281,13780.9135484006,progressive,Central and Eastern Europe
+Greece,225,94.7,44.9,9.7,2015,41.4,195604846736.019,18076.6067552915,progressive,Western Europe
+Hungary,226,93.1,46.3,8.6,2015,41.8,125210324613.14,12720.7120220668,progressive,Central and Eastern Europe
+Uruguay,227,93.1,31.7,11.2,2015,47.2,53274304222.136,15613.7459681824,progressive,Latin America and Caribbean
+Taiwan,228,92.5,67.6,25.0,2015,21.9,,,progressive,Southeast Asia
+Panama,229,89.3,50.9,10.8,2015,50.1,54091713775.5634,13630.3011411301,progressive,Latin America and Caribbean
+Malaysia,230,85.3,64.7,8.4,2015,70.0,301354803994.367,9955.24272167626,progressive,Southeast Asia
+Mexico,231,85.0,68.8,6.3,2015,53.8,1171867608197.72,9616.64555810607,progressive,Latin America and Caribbean
+Bahrain,232,84.1,87.4,7.9,2015,40.0,31050638297.8723,22634.0856475674,progressive,Middle East and North Africa
+Romania,233,83.6,50.5,11.8,2015,29.7,177729210874.504,8969.14892146193,progressive,Central and Eastern Europe
+Hong Kong,234,83.0,59.5,30.1,2015,19.2,309383600000.0,42431.888282,progressive,East Asia
+Turkey,235,82.5,74.3,6.7,2015,36.4,864316670330.882,11006.2795239649,progressive,Middle East and North Africa
+India,236,78.6,77.7,10.1,2015,46.5,2103587813812.75,1605.60544457087,progressive,South Asia
+Argentina,237,77.0,55.9,11.6,2015,62.4,594749285413.212,13789.060424772,progressive,Latin America and Caribbean
+Bosnia And Herzegovina,238,73.5,58.5,12.5,2015,45.8,16219820000.0,4729.689959,progressive,Central and Eastern Europe
+Belarus,239,72.5,45.1,16.4,2015,30.5,56454734396.5842,5967.05220384914,proportional,Commonwealth of Independent States
+Bulgaria,240,68.3,64.0,9.4,2015,43.5,50781996712.7635,7074.68102325059,proportional,Central and Eastern Europe
+Chile,241,65.5,72.4,10.8,2015,45.0,243919079437.422,13574.1692377524,progressive,Latin America and Caribbean
+Georgia,242,65.0,58.8,15.2,2015,22.0,14953950557.4406,4014.18594419329,progressive,Commonwealth of Independent States
+Serbia,243,60.3,56.6,17.1,2015,43.4,39655958842.5478,5588.98072768556,progressive,Central and Eastern Europe
+Sri Lanka,244,49.9,65.7,14.3,2015,50.0,80604080688.5775,3843.78067184442,progressive,South Asia
+Armenia,245,49.1,73.0,13.4,2015,29.1,10553337672.9872,3607.28929855361,progressive,Commonwealth of Independent States
+Colombia,246,47.7,61.4,14.4,2015,56.9,293481748240.779,6175.8760297026,progressive,Latin America and Caribbean
+Thailand,247,47.4,72.8,20.8,2015,37.1,401296437424.995,5840.05306687798,progressive,Southeast Asia
+Kazakhstan,248,47.0,73.7,12.7,2015,46.7,184388432148.715,10510.7718884149,progressive,Commonwealth of Independent States
+Ecuador,249,44.5,53.2,14.7,2015,54.0,99290381000.0,6124.49088707134,progressive,Latin America and Caribbean
+Dominican Republic,250,43.6,65.3,11.5,2015,67.7,71164825256.6849,6921.52059432776,progressive,Latin America and Caribbean
+Moldova,251,42.1,57.2,17.1,2015,49.7,7745231660.33425,2732.45711293733,progressive,Commonwealth of Independent States
+Jordan,252,38.6,85.6,8.6,2015,45.5,38587017887.3239,4164.10876894014,progressive,Middle East and North Africa
+Philippines,253,37.0,74.2,18.5,2015,43.1,306446140627.933,3001.04318170103,progressive,Southeast Asia
+Lebanon,254,32.8,89.1,16.2,2015,52.0,50065946086.17,7663.92023216349,progressive,Middle East and North Africa
+Brazil,255,29.8,58.0,16.7,2015,69.0,1802211999538.68,8813.98980647828,progressive,Latin America and Caribbean
+North Macedonia,256,28.9,82.3,15.4,2015,36.1,10064515432.0265,4861.55397141497,progressive,Central and Eastern Europe
+Russia,257,28.4,72.8,14.6,2015,51.3,1363481000000.0,9313.013625,progressive,Commonwealth of Independent States
+Indonesia,258,22.7,74.4,18.9,2015,47.2,860854235065.079,3331.69511469189,progressive,Southeast Asia
+Pakistan,259,21.8,83.7,14.3,2015,61.2,270556131701.171,1356.66783065763,progressive,South Asia
+Ukraine,260,20.1,69.9,17.4,2015,49.4,91030959454.6961,2124.6623187838,proportional,Commonwealth of Independent States
+China,261,16.0,89.4,26.4,2015,41.7,11061553079871.5,8016.43143498003,progressive,East Asia
+Kenya,262,7.3,62.2,16.8,2015,72.6,70120413328.7838,1464.55400904329,progressive,Sub-Saharan Africa
+Bolivia,263,6.6,94.0,10.3,2015,65.6,33000198248.3362,3035.97165489786,progressive,Latin America and Caribbean
+Nigeria,264,3.0,76.3,10.7,2015,76.6,486803295097.89,2687.48005643212,progressive,Sub-Saharan Africa
+Iran,265,1.1,82.3,20.8,2015,50.9,384951500000.0,4904.327315,proportional,Middle East and North Africa
+Cambodia,266,-4.4,80.1,21.1,2015,44.1,18049954289.4229,1162.90499489402,progressive,Southeast Asia
+Bangladesh,267,-5.4,93.6,10.9,2015,64.2,195078678697.23,1248.45330989613,progressive,South Asia
+Egypt,268,-7.1,96.6,11.3,2015,60.1,329366600000.0,3562.932658,progressive,Middle East and North Africa
+Vietnam,269,-19.5,84.3,23.9,2015,52.3,193241108709.536,2085.10134910739,progressive,Southeast Asia
+Mongolia,270,-35.7,94.6,18.6,2015,70.3,11619892396.0767,3875.32167504717,progressive,East Asia
+Venezuela,271,-53.0,79.2,22.2,2015,84.1,,,progressive,Latin America and Caribbean
+Switzerland,272,208.5,23.0,8.6,2016,25.7,695600652899.283,83073.2800824812,progressive,Western Europe
+Denmark,273,206.5,29.9,5.9,2016,25.7,313115929314.339,54663.9983719195,progressive,Western Europe
+New Zealand,274,201.1,19.0,6.3,2016,36.4,188943457301.474,40080.4941137172,progressive,North America and ANZ
+Germany,275,199.7,29.9,7.1,2016,33.0,3467498002104.33,42107.5172703074,progressive,Western Europe
+Australia,276,198.8,22.9,8.4,2016,43.1,1206685107002.47,49881.7637140466,progressive,North America and ANZ
+Austria,277,192.4,30.8,9.5,2016,24.1,395568644341.038,45276.8314351693,progressive,Western Europe
+Netherlands,278,192.4,32.8,5.9,2016,31.5,783528181704.567,46007.8529206547,progressive,Western Europe
+Norway,279,188.9,18.2,7.4,2016,30.1,368827142857.143,70460.5605323322,progressive,Western Europe
+Spain,280,186.4,46.6,8.1,2016,31.8,1232076017361.53,26505.3432155204,progressive,Western Europe
+Sweden,281,185.8,18.3,11.2,2016,43.1,515654671469.547,51965.1571531985,progressive,Western Europe
+Finland,282,184.0,17.8,7.7,2016,28.1,240607907010.383,43784.2839622098,progressive,Western Europe
+United States,283,184.0,34.9,3.4,2016,48.9,18745075687000.0,58021.4004997125,progressive,North America and ANZ
+Portugal,284,181.2,31.8,8.4,2016,35.1,206286022781.894,19978.401214968,progressive,Western Europe
+United Kingdom,285,180.2,35.0,9.3,2016,43.1,2722851958486.23,41499.5557033073,progressive,Western Europe
+Canada,286,177.2,29.5,6.1,2016,39.2,1527994741907.43,42315.6037056806,progressive,North America and ANZ
+Japan,287,176.1,34.0,20.2,2016,19.3,5003677627544.24,39400.7393559257,progressive,East Asia
+Slovenia,288,175.9,28.2,9.7,2016,26.3,44736333522.4522,21663.643413767,progressive,Central and Eastern Europe
+France,289,173.6,46.3,11.9,2016,44.1,2471285607081.72,37037.3741861219,progressive,Western Europe
+Croatia,290,172.4,30.4,11.9,2016,29.5,52295158344.2544,12527.7398569824,progressive,Central and Eastern Europe
+Ireland,291,171.9,30.8,8.5,2016,48.4,298725229419.215,62818.9663649805,progressive,Western Europe
+South Korea,292,170.3,49.7,14.9,2016,14.3,1500112000000.0,29288.870439,progressive,East Asia
+Czech Republic,293,167.4,42.5,10.3,2016,32.1,196272068576.338,18575.2320271915,proportional,Central and Eastern Europe
+Israel,294,166.6,61.5,10.6,2016,30.6,319024417316.889,37330.261796968,progressive,Middle East and North Africa
+Greece,295,165.4,47.2,7.4,2016,38.5,193017030649.7,17911.7993774946,progressive,Western Europe
+Belgium,296,162.3,56.6,6.6,2016,45.2,475739588764.759,41984.1030335609,progressive,Western Europe
+Italy,297,159.3,56.6,10.4,2016,46.2,1875797463583.87,30939.7142462298,progressive,Western Europe
+Saudi Arabia,298,159.2,72.2,2.8,2016,25.2,644935541440.0,19878.7638365016,progressive,Middle East and North Africa
+South Africa,299,156.7,63.3,3.3,2016,78.4,323585509674.481,5756.96574098804,progressive,Sub-Saharan Africa
+Poland,300,153.6,49.9,11.0,2016,31.4,472630364208.177,12447.4395912808,progressive,Central and Eastern Europe
+Chile,301,147.3,67.2,9.9,2016,42.0,250440149690.846,13753.5921485096,progressive,Latin America and Caribbean
+Bosnia And Herzegovina,302,146.7,57.9,10.9,2016,42.5,16914290000.0,4994.971551,progressive,Central and Eastern Europe
+Romania,303,146.1,50.5,10.6,2016,29.7,188128818486.401,9548.58740298268,progressive,Central and Eastern Europe
+United Arab Emirates,304,144.1,59.5,5.4,2016,23.1,357045064669.843,38141.8671313451,progressive,Middle East and North Africa
+Bulgaria,305,141.6,60.4,8.8,2016,41.4,53953897624.4344,7569.47881476759,progressive,Central and Eastern Europe
+Hungary,306,140.7,46.7,9.8,2016,41.9,128636108315.474,13107.3779137744,progressive,Central and Eastern Europe
+Argentina,307,138.5,58.5,12.2,2016,63.3,557531376217.967,12790.2424732447,progressive,Latin America and Caribbean
+Serbia,308,138.3,55.1,16.6,2016,43.3,40692643373.0327,5765.20076202711,progressive,Central and Eastern Europe
+Turkey,309,137.3,65.7,8.1,2016,39.4,869692960365.551,10894.6033779275,progressive,Middle East and North Africa
+Mexico,310,137.0,64.6,6.2,2016,50.8,1078490651625.31,8744.51555912786,progressive,Latin America and Caribbean
+Lithuania,311,134.3,30.9,12.9,2016,43.2,43018087237.5741,14998.1250595137,proportional,Central and Eastern Europe
+Colombia,312,128.5,64.4,16.3,2016,48.5,282825009887.458,5870.77795724165,progressive,Latin America and Caribbean
+North Macedonia,313,115.0,85.3,15.5,2016,38.0,10672471860.7184,5149.58907435906,progressive,Central and Eastern Europe
+India,314,109.3,77.0,10.5,2016,46.6,2294797980509.01,1732.55424231659,progressive,South Asia
+Hong Kong,315,108.3,67.2,37.6,2016,20.8,320837600000.0,43731.106825,progressive,East Asia
+Brazil,316,101.0,61.2,17.9,2016,71.2,1795693265810.23,8710.06328995352,progressive,Latin America and Caribbean
+China,317,99.0,85.5,25.0,2016,32.1,11233276536744.7,8094.36336675194,progressive,East Asia
+Iran,318,96.9,84.2,14.8,2016,52.4,417983600000.0,5253.42656,progressive,Middle East and North Africa
+Pakistan,319,94.0,76.6,15.3,2016,56.6,278654637737.69,1368.42696140417,progressive,South Asia
+Singapore,320,93.1,38.8,23.2,2016,15.8,318763807455.664,56848.1753918367,progressive,Southeast Asia
+Egypt,321,88.8,96.0,10.8,2016,56.5,332441700000.0,3519.87324,progressive,Middle East and North Africa
+Russia,322,88.3,64.5,12.8,2016,47.3,1276787000000.0,8704.898413,proportional,Commonwealth of Independent States
+Ukraine,323,85.6,67.8,26.2,2016,48.6,93355993628.5042,2187.73050991433,proportional,Commonwealth of Independent States
+Indonesia,324,72.2,75.1,19.5,2016,47.0,931877364177.742,3562.81633352183,progressive,Southeast Asia
+Philippines,325,65.8,73.1,19.2,2016,37.6,318626761492.305,3073.65468570946,progressive,Southeast Asia
+Thailand,326,63.8,71.5,24.4,2016,42.6,413366150655.591,5993.30551610045,progressive,Southeast Asia
+Malaysia,327,63.8,67.5,9.1,2016,68.6,301255380276.258,9817.78709031009,progressive,Southeast Asia
+Argentina,0,"139,6","53,3","12,1",2017,"62,6",643629000000.0,14613.0,progressive,Latin America and Caribbean
+Australia,1,"176,5","24,6","9,2",2017,"42,4",1326880000000.0,53934.0,progressive,North America and ANZ
+Austria,2,"190,4","21,9","9,7",2017,"19,2",417261000000.0,47429.0,progressive,Western Europe
+Belarus,3,"119,2","39,6","18,7",2017,"22,3",54726595249.0,5786.0,proportional,Commonwealth of Independent States
+Belgium,4,"160,5","48,9",7,2017,"44,5",502765000000.0,44198.0,progressive,Western Europe
+Bosnia,5,"139,1","60,7","11,3",2017,41,18079076427.0,5394.0,proportional,Central and Eastern Europe
+Brazil,6,"96,2","61,2",17,2017,"70,6",2063510000000.0,9929.0,progressive,Latin America and Caribbean
+Bulgaria,7,"138,2","63,1","9,1",2017,"40,2",59199447421.0,8366.0,proportional,Central and Eastern Europe
+Canada,8,"167,2","26,5","6,4",2017,"39,2",1649270000000.0,45129.0,progressive,North America and ANZ
+Chile,9,"136,2","67,7","10,7",2017,"47,5",276365000000.0,14963.0,progressive,Latin America and Caribbean
+China,10,91,89,"23,3",2017,"33,9",12310400000000.0,8817.0,progressive,East Asia
+China,11,91,89,"23,3",2017,"33,9",12310400000000.0,8817.0,progressive,East Asia
+Croatia,12,"170,6","33,3","10,9",2017,"27,8",56214427431.0,13629.0,progressive,Central and Eastern Europe
+Cyprus,13,"166,6","54,8","5,2",2017,"32,5",22870833710.0,26609.0,progressive,Western Europe
+Czech Republic,14,"165,4",41,"10,7",2017,"30,2",218629000000.0,20636.0,proportional,Central and Eastern Europe
+Denmark,15,"184,9",26,"8,2",2017,"21,1",332121000000.0,57610.0,progressive,Western Europe
+Egypt,16,"91,8","88,9","10,7",2017,"52,9",235734000000.0,2444.0,progressive,Middle East and North Africa
+Estonia,17,"171,1","17,7","10,5",2017,23,26924385103.0,20438.0,proportional,Central and Eastern Europe
+Finland,18,"182,9","13,4","7,6",2017,"24,6",255648000000.0,46412.0,progressive,Western Europe
+France,19,"160,3","40,2","11,6",2017,"43,7",2595150000000.0,38781.0,progressive,Western Europe
+Germany,20,"189,7","27,1","7,5",2017,32,3690850000000.0,44653.0,progressive,Western Europe
+Greece,21,"148,3",52,"8,3",2017,"40,3",199844000000.0,18582.0,progressive,Western Europe
+Hong Kong,22,"94,5","69,9","36,1",2017,"20,7",341273000000.0,46160.0,proportional,East Asia
+Hungary,23,"138,8",44,"11,2",2017,"38,4",143136000000.0,14624.0,progressive,Central and Eastern Europe
+India,24,"101,5","76,5","10,3",2017,44,2651470000000.0,1981.0,progressive,South Asia
+Indonesia,25,62,"76,4",21,2017,"49,7",1015620000000.0,3838.0,progressive,Southeast Asia
+Iran,26,"97,2","82,5","13,5",2017,"50,9",486630000000.0,6032.0,proportional,Middle East and North Africa
+Ireland,27,"166,9","27,2",7,2017,"45,8",335431000000.0,69774.0,progressive,Western Europe
+Israel,28,"157,9","61,7","10,9",2017,29,355277000000.0,40774.0,progressive,Middle East and North Africa
+Italy,29,"142,5","61,7","12,4",2017,"44,7",1961800000000.0,32407.0,progressive,Western Europe
+Japan,30,"147,5",41,"12,7",2017,"20,9",4930840000000.0,38834.0,progressive,East Asia
+Jordan,31,"117,5","85,7",8,2017,"43,1",41408960845.0,4232.0,progressive,Middle East and North Africa
+Lebanon,32,"106,2","85,1","13,9",2017,"49,2",53027680686.0,7776.0,progressive,Middle East and North Africa
+Lithuania,33,"130,3","34,3","14,2",2017,40,47758736932.0,16885.0,proportional,Central and Eastern Europe
+Malaysia,34,"51,6","67,1","9,5",2017,"64,8",319112000000.0,10259.0,progressive,Southeast Asia
+Mexico,35,"129,1","66,7","6,9",2017,"50,3",1158910000000.0,9288.0,progressive,Latin America and Caribbean
+Netherlands,36,"175,2","27,6","8,5",2017,"29,9",833870000000.0,48675.0,proportional,Western Europe
+New Zealand,37,"184,7",20,"8,1",2017,"38,8",17221190000.0,4777.066914,progressive,North America and ANZ
+North Macedonia,38,"116,4","83,4","14,7",2017,"38,7",11307058382.0,5450.0,progressive,Central and Eastern Europe
+Norway,39,"165,9","19,5","7,9",2017,"45,7",398394000000.0,75497.0,progressive,Western Europe
+Philippines,40,"56,9","70,2","16,9",2017,"39,8",328481000000.0,3123.0,proportional,Southeast Asia
+Poland,41,"150,2","50,3","10,1",2017,"31,5",526509000000.0,13865.0,progressive,Central and Eastern Europe
+Portugal,42,"178,4","28,9","8,9",2017,"35,4",221358000000.0,21490.0,progressive,Western Europe
+Qatar,43,"132,4","73,3","6,2",2017,"15,7",161099000000.0,59125.0,proportional,Middle East and North Africa
+Romania,44,143,"50,9","10,8",2017,"27,9",211695000000.0,10807.0,progressive,Central and Eastern Europe
+Russia,45,"85,9",63,"13,5",2017,"46,1",1574200000000.0,10720.0,proportional,Commonwealth of Independent States
+Saudi Arabia,46,"146,4","74,2","2,8",2017,"23,6",2208296000000.0,15420.874541,proportional,Middle East and North Africa
+Serbia,47,"133,4","55,3","17,9",2017,"38,6",44179055280.0,6293.0,proportional,Central and Eastern Europe
+Slovak Republic,48,"152,5","43,5","9,9",2017,"30,2",279116700000.0,3229.68563,proportional,Central and Eastern Europe
+Slovenia,49,"175,5","26,4","8,3",2017,"24,1",598868500000.0,7927.844908,proportional,Central and Eastern Europe
+South Africa,50,"144,7","63,6","3,6",2017,"75,7",381449000000.0,6691.0,progressive,Sub-Saharan Africa
+South Korea,51,"162,5","52,7","12,4",2017,"25,3",1623900000000.0,31617.0,progressive,East Asia
+Spain,52,"183,6","37,5","8,3",2017,"31,3",1312540000000.0,28170.0,progressive,Western Europe
+Sri Lanka,53,89,"61,9","17,5",2017,"34,6",87428128124.0,4077.0,progressive,South Asia
+Sweden,54,"172,7","17,9","11,8",2017,"46,6",541019000000.0,53792.0,progressive,Western Europe
+Switzerland,55,"173,5","20,8",14,2017,"22,4",704479000000.0,83352.0,progressive,Western Europe
+Thailand,56,"57,2","73,2","24,4",2017,"49,8",456357000000.0,6594.0,progressive,Southeast Asia
+Turkey,57,"129,6","70,5","8,9",2017,"41,1",858996000000.0,10590.0,progressive,Middle East and North Africa
+UAE,58,"139,3","58,5","5,6",2017,"20,7",385606000000.0,40645.0,proportional,Middle East and North Africa
+Ukraine,59,"87,5","67,3","22,9",2017,"51,3",112091000000.0,2638.0,proportional,Commonwealth of Independent States
+United Kingdom,60,"172,9","34,9",10,2017,"41,2",2699020000000.0,40858.0,progressive,Western Europe
+United States,61,"179,7","31,2","3,3",2017,"48,8",19479600000000.0,59915.0,progressive,North America and ANZ
+Vietnam,62,"36,1","88,1","26,8",2017,53,281353000000.0,2974.0,progressive,Southeast Asia
+Argentina,63,"131,8","53,6","10,7",2018,"61,8",524820000000.0,11795.0,progressive,Latin America and Caribbean
+Australia,64,"188,7","24,8","7,4",2018,"42,5",1428530000000.0,57181.0,progressive,North America and ANZ
+Austria,65,"190,2","22,9","9,6",2018,"20,4",455168000000.0,51487.0,progressive,Western Europe
+Belgium,66,164,"48,9","7,1",2018,"42,2",543347000000.0,47549.0,proportional,Western Europe
+Bosnia,67,"129,3","61,6",,2018,"40,1",20177422311.0,6070.0,proportional,Central and Eastern Europe
+Brazil,68,"100,1","59,5","16,3",2018,"70,6",1916930000000.0,9151.0,progressive,Latin America and Caribbean
+Bulgaria,69,"129,7",63,"8,6",2018,"39,7",66363422450.0,9447.0,proportional,Central and Eastern Europe
+Canada,70,"173,9","27,7","6,1",2018,"39,3",1725330000000.0,46549.0,progressive,North America and ANZ
+Chile,71,"122,7","66,8","13,1",2018,"46,5",295403000000.0,15772.0,progressive,Latin America and Caribbean
+China,72,"99,4","85,9","28,2",2018,"39,4",13894800000000.0,9905.0,progressive,East Asia
+China,73,"99,4","85,9","28,2",2018,"39,4",1370795000000.0,27182.73431,progressive,East Asia
+Colombia,74,"112,1","62,5","18,1",2018,"50,7",334198000000.0,6730.0,progressive,Latin America and Caribbean
+Croatia,75,"162,4","32,7","11,1",2018,27,62247874949.0,15228.0,progressive,Central and Eastern Europe
+Czech Republic,76,162,41,"12,7",2018,"28,8",248950000000.0,23420.0,proportional,Central and Eastern Europe
+Denmark,77,"197,7","23,6","7,2",2018,22,356841000000.0,61592.0,progressive,Western Europe
+Egypt,78,"84,4","87,6","12,7",2018,"53,7",249713000000.0,2537.0,progressive,Middle East and North Africa
+Estonia,79,"176,4","17,2","9,2",2018,"20,8",30489500905.0,23064.0,proportional,Central and Eastern Europe
+Finland,80,"195,3","12,1","7,5",2018,,98541310000.0,18203.242488,proportional,Western Europe
+France,81,"166,2","40,4","9,9",2018,"45,3",2790960000000.0,41593.0,proportional,Western Europe
+Germany,82,190,"27,3",8,2018,"36,7",3977290000000.0,47974.0,progressive,Western Europe
+Greece,83,"137,4","52,8","9,5",2018,"39,1",275696900000.0,38403.777715,progressive,Western Europe
+Hong Kong,84,"110,3","69,4","41,1",2018,"20,9",361731000000.0,48538.0,proportional,East Asia
+Hungary,85,"132,3","46,6","13,3",2018,"36,5",160587000000.0,16427.0,progressive,Central and Eastern Europe
+India,86,"122,1","75,9","9,7",2018,"44,2",2702930000000.0,1998.0,progressive,South Asia
+Indonesia,87,"112,9","60,7","13,1",2018,"44,7",1042270000000.0,3894.0,progressive,Southeast Asia
+Iran,88,"92,4","81,2","12,5",2018,"49,4",330992000000.0,4046.0,proportional,Middle East and North Africa
+Ireland,89,"163,5","28,7","7,6",2018,"43,8",385042000000.0,79108.0,progressive,Western Europe
+Israel,90,"152,2","60,3","13,9",2018,"36,9",373641000000.0,42063.0,progressive,Middle East and North Africa
+Italy,91,"146,1","53,1","9,9",2018,"44,5",2091930000000.0,34622.0,progressive,Western Europe
+Japan,92,176,"41,7","12,6",2018,"13,1",5037840000000.0,39727.0,progressive,East Asia
+Lithuania,93,149,"33,1",13,2018,"37,6",53750911866.0,19186.0,proportional,Central and Eastern Europe
+Malaysia,94,116,"66,5","9,6",2018,"63,1",358792000000.0,11380.0,progressive,Southeast Asia
+Mexico,95,"126,4","66,1","7,8",2018,"51,1",1222410000000.0,9687.0,progressive,Latin America and Caribbean
+Netherlands,96,"191,3","27,2","6,7",2018,"28,9",18172340000.0,5129.663534,progressive,Western Europe
+New Zealand,97,"182,4","21,8","8,2",2018,"39,2",211953000000.0,43250.0,progressive,North America and ANZ
+Norway,98,"176,3","20,2","8,7",2018,"43,3",437000000000.0,82268.0,progressive,Western Europe
+Pakistan,99,"100,3","77,5","12,5",2018,"51,2",356128000000.0,1678.0,progressive,South Asia
+Philippines,100,"99,1","72,5","17,8",2018,"40,1",346842000000.0,3252.0,progressive,Southeast Asia
+Poland,101,"146,6","51,1","9,8",2018,"36,2",587412000000.0,15468.0,progressive,Central and Eastern Europe
+Portugal,102,"166,7","30,5",10,2018,"34,5",242313000000.0,23563.0,proportional,Western Europe
+Qatar,103,"159,6","70,2",,2018,"15,7",183335000000.0,65908.0,proportional,Middle East and North Africa
+Romania,104,144,53,"9,1",2018,29,241457000000.0,12399.0,progressive,Central and Eastern Europe
+Russia,105,"103,3","63,3","11,4",2018,"45,2",1657330000000.0,11287.0,proportional,Commonwealth of Independent States
+Saudi Arabia,106,"149,6","71,7","2,8",2018,"36,7",816579000000.0,24229.0,progressive,Middle East and North Africa
+Serbia,107,"123,5","56,6","17,2",2018,"37,8",50640650221.0,7252.0,proportional,Central and Eastern Europe
+Slovak Republic,108,"155,4","40,7","9,9",2018,"30,2",105613000000.0,19390.0,proportional,Central and Eastern Europe
+Slovenia,109,"175,4","26,2","8,4",2018,"24,7",54163591695.0,26117.0,progressive,Central and Eastern Europe
+South Africa,110,"137,9","62,2","3,5",2018,"75,7",2292473000000.0,15974.644627,progressive,Sub-Saharan Africa
+South Korea,111,"155,4","52,9",14,2018,"35,8",1724850000000.0,33437.0,progressive,East Asia
+Spain,112,"174,9","38,1",8,2018,"36,7",1420990000000.0,30365.0,progressive,Western Europe
+Sweden,113,"176,8","19,1","10,5",2018,"49,3",555455000000.0,54589.0,progressive,Western Europe
+Switzerland,114,"190,8",23,"10,9",2018,"21,8",288434100000.0,3262.657586,progressive,Western Europe
+Thailand,115,"101,2","72,9","22,8",2018,"47,3",460293100000.0,6018.3229,proportional,Southeast Asia
+Turkey,116,"127,6","69,4","8,9",2018,"41,1",778472000000.0,9454.0,progressive,Middle East and North Africa
+UAE,117,"163,5","55,8","4,9",2018,"18,7",371005400000.0,12457.768602,proportional,Middle East and North Africa
+Ukraine,118,96,"67,2","18,2",2018,"49,4",130891000000.0,3097.0,proportional,Commonwealth of Independent States
+United States,119,"180,6","31,7","3,3",2018,"49,6",20527200000000.0,62805.0,progressive,North America and ANZ
+United Kingdom,120,"171,9","37,7","9,3",2018,"41,2",2900790000000.0,43647.0,progressive,Western Europe
+Vietnam,121,"81,1","88,1","21,3",2018,"52,2",308702000000.0,3231.0,progressive,Southeast Asia
+Argentina,122,"122,5","52,3",19,2019,"62,6",452818000000.0,10076.0,progressive,Latin America and Caribbean
+Australia,123,"191,1",24,"7,6",2019,"42,8",1391950000000.0,54875.0,progressive,North America and ANZ
+Austria,124,"191,1",22,"10,1",2019,"21,4",445012000000.0,50114.0,progressive,Western Europe
+Belarus,125,"141,5",36,"14,3",2019,"26,6",64409647194.0,6838.0,proportional,Commonwealth of Independent States
+Belgium,126,"162,1","49,9","7,2",2019,"42,5",535376000000.0,46599.0,progressive,Western Europe
+Bosnia,127,"124,5","63,5",,2019,"43,8",20201323283.0,6120.0,proportional,Central and Eastern Europe
+Brazil,128,"100,3","57,7","18,7",2019,"70,2",1873290000000.0,8876.0,progressive,Latin America and Caribbean
+Bulgaria,129,"130,6",64,"8,7",2019,40,68915416142.0,9879.0,proportional,Central and Eastern Europe
+Canada,130,"170,3","27,8","7,7",2019,"39,5",1742020000000.0,46329.0,progressive,North America and ANZ
+Chile,131,"124,1","65,5","13,5",2019,"46,8",278585000000.0,14699.0,progressive,Latin America and Caribbean
+China,132,"97,9","81,9","29,1",2019,"45,5",14279900000000.0,10144.0,progressive,East Asia
+China,133,"97,9","81,9","29,1",2019,"45,5",14279900000000.0,10144.0,progressive,East Asia
+Colombia,134,"108,4","61,7","18,8",2019,"51,3",323110000000.0,6419.0,progressive,Latin America and Caribbean
+Croatia,135,"165,3",31,"11,6",2019,"24,7",62246206341.0,15312.0,progressive,Central and Eastern Europe
+Cyprus,136,"157,6","53,8","7,2",2019,"29,3",25758357775.0,29206.0,progressive,Western Europe
+Czech Republic,137,"158,8",41,"15,2",2019,"26,7",252498000000.0,23660.0,proportional,Central and Eastern Europe
+Denmark,138,"198,6","22,1","6,9",2019,"24,2",347561000000.0,59776.0,progressive,Western Europe
+Egypt,139,84,"86,5","13,6",2019,"50,7",303081000000.0,3019.0,progressive,Middle East and North Africa
+Estonia,140,"180,9","18,1","9,3",2019,"20,8",31045591753.0,23398.0,proportional,Central and Eastern Europe
+Finland,141,194,"11,9",8,2019,"22,8",268508000000.0,48629.0,progressive,Western Europe
+France,142,"157,8","42,7","12,9",2019,"46,4",2728870000000.0,40579.0,progressive,Western Europe
+Georgia,143,"120,9","72,7","12,7",2019,"20,8",17470436259.0,4696.0,proportional,Commonwealth of Independent States
+Germany,144,187,28,9,2019,"34,5",3888330000000.0,46795.0,proportional,Western Europe
+Greece,145,"137,8","51,9","9,8",2019,"38,6",1484318000000.0,29249.575221,progressive,Western Europe
+Hong Kong,146,"100,9","66,4","49,4",2019,"19,3",363052000000.0,48356.0,proportional,East Asia
+Hungary,147,"134,5","46,5","12,6",2019,"35,2",163526000000.0,16736.0,progressive,Central and Eastern Europe
+Iceland,148,"187,8","15,2",,2019,"23,3",100954700000.0,18630.97598,proportional,Western Europe
+India,149,"117,5","75,8","11,3",2019,"42,7",2831550000000.0,2072.0,progressive,South Asia
+Indonesia,150,"107,2","62,8","13,8",2019,46,1119100000000.0,4135.0,progressive,Southeast Asia
+Iran,151,87,"79,3","16,9",2019,,291363000000.0,3514.0,proportional,Middle East and North Africa
+Ireland,152,"160,8","31,1","7,9",2019,"44,5",399122000000.0,80887.0,progressive,Western Europe
+Israel,153,"153,8","57,3",14,2019,"32,2",397935000000.0,43951.0,progressive,Middle East and North Africa
+Italy,154,"145,7","53,8",10,2019,45,2011290000000.0,33673.0,progressive,Western Europe
+Japan,155,"180,5","37,1","11,2",2019,14,5123320000000.0,40458.0,progressive,East Asia
+Jordan,156,"112,9","80,4","7,7",2019,"43,8",44502895915.0,4405.0,progressive,Middle East and North Africa
+Latvia,157,"149,2",35,"9,4",2019,"36,8",34308783825.0,17927.0,proportional,Central and Eastern Europe
+Lebanon,158,"111,2","87,4","13,4",2019,"44,3",51605959131.0,7527.0,progressive,Middle East and North Africa
+Lithuania,159,"156,4","30,8","11,1",2019,"36,5",54697379017.0,19576.0,proportional,Central and Eastern Europe
+Malaysia,160,"122,1","63,7","9,8",2019,61,365276000000.0,11433.0,progressive,Southeast Asia
+Mexico,161,"123,5",66,"10,2",2019,"52,3",18560860000.0,5330.355075,progressive,Latin America and Caribbean
+Netherlands,162,"188,9","27,4","7,4",2019,29,910194000000.0,52476.0,proportional,Western Europe
+New Zealand,163,"185,6","22,7","8,3",2019,"39,6",291459400000.0,40315.285564,progressive,North America and ANZ
+North Macedonia,164,"110,6","80,9","13,7",2019,"39,3",12606338449.0,6070.0,progressive,Central and Eastern Europe
+Norway,165,"181,9","19,9","8,4",2019,"35,3",404941000000.0,75720.0,progressive,Western Europe
+Pakistan,166,"104,6","75,9","14,1",2019,"46,7",320909000000.0,1482.0,progressive,South Asia
+Panama,167,"113,1",62,"12,7",2019,"46,4",66984427200.0,15774.0,progressive,Latin America and Caribbean
+Philippines,168,"90,7","74,5","21,8",2019,"40,8",376823000000.0,3485.0,proportional,Southeast Asia
+Poland,169,148,"52,4","10,3",2019,"30,1",597281000000.0,15732.0,progressive,Central and Eastern Europe
+Portugal,170,"163,5","31,6","12,7",2019,"32,1",239987000000.0,23331.0,progressive,Western Europe
+Qatar,171,"167,8","66,5","5,7",2019,"13,3",175838000000.0,62088.0,proportional,Middle East and North Africa
+Romania,172,"140,3","55,4","10,2",2019,"27,8",249882000000.0,12899.0,progressive,Central and Eastern Europe
+Russia,173,"104,9","62,8","12,4",2019,"41,9",1693110000000.0,11536.0,proportional,Commonwealth of Independent States
+Saudi Arabia,174,"152,7","67,3","2,9",2019,"29,7",803616000000.0,23451.0,progressive,Middle East and North Africa
+Serbia,175,"119,8","58,9","18,6",2019,"37,3",51514222382.0,7417.0,progressive,Central and Eastern Europe
+Singapore,176,"156,9","32,3","21,6",2019,"21,5",375473000000.0,65831.0,progressive,Southeast Asia
+Slovak Republic,177,"153,1","41,9","10,3",2019,"29,5",105284000000.0,19304.0,proportional,Central and Eastern Europe
+Slovenia,178,176,"24,3","10,2",2019,"22,6",54178877606.0,25943.0,proportional,Central and Eastern Europe
+South Africa,179,"135,3","56,9","4,1",2019,"76,8",387935000000.0,6625.0,progressive,Sub-Saharan Africa
+South Korea,180,"149,5","54,2","17,6",2019,34,1651420000000.0,31902.0,progressive,East Asia
+Spain,181,"174,2","39,4","9,2",2019,"32,5",2059242000000.0,14095.648743,proportional,Western Europe
+Sri Lanka,182,"95,3","57,7","26,3",2019,41,305595400000.0,3379.557986,progressive,South Asia
+Sweden,183,"178,7",18,"10,3",2019,"49,3",432687000000.0,5585.525604,proportional,Western Europe
+Switzerland,184,"195,9",22,"9,6",2019,"21,5",731767000000.0,85335.0,progressive,Western Europe
+Thailand,185,"103,3","72,2","21,9",2019,"46,7",482359300000.0,16055.645317,progressive,Southeast Asia
+Turkey,186,"125,5","69,2","9,3",2019,"40,4",761004000000.0,9122.0,progressive,Middle East and North Africa
+UAE,187,"167,8","53,1","4,4",2019,"16,3",417216000000.0,42701.0,proportional,Middle East and North Africa
+Ukraine,188,"102,3","66,6","14,3",2019,"48,9",153883000000.0,3661.0,proportional,Commonwealth of Independent States
+United Kingdom,189,"170,8","39,4","9,2",2019,"42,7",2878670000000.0,43070.0,progressive,Western Europe
+United States,190,"179,2","33,9","3,6",2019,"47,1",21372600000000.0,65095.0,progressive,North America and ANZ
+Vietnam,191,"88,8","87,1","19,7",2019,"48,8",330391000000.0,3425.0,progressive,Southeast Asia
+Argentina,192,"115,3","50,7","24,5",2020,"61,8",389591000000.0,8586.0,progressive,Latin America and Caribbean
+Australia,193,"186,2","23,5","7,5",2020,"41,4",1327840000000.0,51680.0,progressive,North America and ANZ
+Austria,194,"182,5","22,2","10,9",2020,"23,7",433258000000.0,48589.0,progressive,Western Europe
+Bangladesh,195,70,"86,2","13,1",2020,"63,9",373902000000.0,2270.0,progressive,South Asia
+Belarus,196,134,"43,6","14,6",2020,25,61489588895.0,6555.0,proportional,Commonwealth of Independent States
+Belgium,197,"153,5","52,9","6,9",2020,44,521677000000.0,45189.0,progressive,Western Europe
+Bosnia,198,"121,9","62,3","12,6",2020,43,19955120005.0,6082.0,proportional,Central and Eastern Europe
+Brazil,199,"105,6",55,"16,4",2020,69,1448570000000.0,6815.0,progressive,Latin America and Caribbean
+Bulgaria,200,"129,8","65,3","8,5",2020,"38,5",69889347433.0,10079.0,proportional,Central and Eastern Europe
+Canada,201,"163,5","27,8",8,2020,"39,7",1645420000000.0,43258.0,progressive,North America and ANZ
+Chile,202,"119,8","65,8","14,9",2020,"45,2",252727000000.0,13221.0,progressive,Latin America and Caribbean
+China,203,"102,8","80,8","29,1",2020,32,14687700000000.0,10409.0,progressive,East Asia
+China,204,"102,8","80,8","29,1",2020,32,14687700000000.0,10409.0,progressive,East Asia
+Colombia,205,"105,8","62,8","19,7",2020,55,270300000000.0,5312.0,proportional,Latin America and Caribbean
+Croatia,206,159,"30,5","13,7",2020,"24,7",57203783203.0,14132.0,proportional,Central and Eastern Europe
+Cyprus,207,"147,9","53,6","8,2",2020,30,24692095945.0,27682.0,progressive,Western Europe
+Czech Republic,208,"156,2","40,2","15,4",2020,"25,5",245339000000.0,22933.0,proportional,Central and Eastern Europe
+Denmark,209,"192,7","21,3","7,5",2020,"25,1",356085000000.0,61063.0,progressive,Western Europe
+Ecuador,210,"125,1",57,"12,7",2020,"50,9",99291124000.0,5628.0,progressive,Latin America and Caribbean
+Egypt,211,"86,5","85,6",13,2020,"46,9",365253000000.0,3569.0,progressive,Middle East and North Africa
+Estonia,212,"177,8","19,8","9,1",2020,"23,1",30650285472.0,23054.0,proportional,Central and Eastern Europe
+Finland,213,"190,2","11,5","8,3",2020,"23,3",271837000000.0,49161.0,progressive,Western Europe
+France,214,"153,9","43,6",13,2020,"46,8",2630320000000.0,39037.0,progressive,Western Europe
+Georgia,215,"115,9","71,1","14,2",2020,"20,2",15842922533.0,4256.0,proportional,Commonwealth of Independent States
+Germany,216,"179,8",29,"9,4",2020,"34,8",1465773000000.0,28732.231076,progressive,Western Europe
+Greece,217,"133,1","52,5","10,6",2020,"40,3",188835000000.0,17647.0,proportional,Western Europe
+Hong Kong,218,"99,1","67,7","47,5",2020,"20,7",344881000000.0,46101.0,proportional,East Asia
+Hungary,219,"128,2","48,3","14,8",2020,"35,1",156743000000.0,16076.0,progressive,Central and Eastern Europe
+Iceland,220,"181,7","16,2",,2020,"23,4",21718075725.0,59264.0,progressive,Western Europe
+India,221,"108,6","78,9","11,4",2020,"43,3",2667690000000.0,1933.0,progressive,South Asia
+Indonesia,222,"97,5","66,6","18,9",2020,"45,8",88601290000.0,16335.645398,proportional,Southeast Asia
+Iran,223,"74,1","77,4","25,1",2020,"49,3",231548000000.0,2757.0,proportional,Middle East and North Africa
+Ireland,224,"153,5",34,"7,5",2020,"45,4",425889000000.0,85423.0,progressive,Western Europe
+Israel,225,"149,9","57,2","12,8",2020,"29,6",407101000000.0,44178.0,progressive,Middle East and North Africa
+Italy,226,"140,8","55,6","9,7",2020,44,1892570000000.0,31835.0,progressive,Western Europe
+Japan,227,168,"39,6",13,2020,"20,7",5040110000000.0,39918.0,progressive,East Asia
+Jordan,228,"112,4","77,8","8,4",2020,41,43697659296.0,4283.0,progressive,Middle East and North Africa
+Kenya,229,"70,6","76,6","31,6",2020,"61,7",100667000000.0,1872.0,progressive,Sub-Saharan Africa
+Kuwait,230,"118,8","68,7","13,2",2020,"34,8",105960000000.0,24812.0,proportional,Middle East and North Africa
+Latvia,231,150,"33,7","8,8",2020,37,33645460617.0,17704.0,proportional,Central and Eastern Europe
+Lebanon,232,"106,6","88,4","13,2",2020,"43,4",25948915861.0,3802.0,progressive,Middle East and North Africa
+Lithuania,233,"159,4","28,8","10,9",2020,33,56546957475.0,20232.0,proportional,Central and Eastern Europe
+Malaysia,234,"118,4","63,2","9,9",2020,"58,8",309383600000.0,42431.888282,progressive,Southeast Asia
+Mexico,235,"118,5","66,1","10,7",2020,54,1087120000000.0,8432.0,progressive,Latin America and Caribbean
+Morocco,236,"105,5","68,2","14,2",2020,"48,9",114725000000.0,3059.0,progressive,Middle East and North Africa
+Netherlands,237,"183,7","27,4","7,5",2020,"27,6",913865000000.0,52396.0,progressive,Western Europe
+New Zealand,238,181,"23,4","8,5",2020,"40,9",16219820000.0,4729.689959,progressive,North America and ANZ
+Nigeria,239,"55,7","87,6",,2020,"63,8",432294000000.0,2097.0,proportional,Sub-Saharan Africa
+North Macedonia,240,"110,5","80,2","12,6",2020,"38,7",12116981815.0,5846.0,proportional,Central and Eastern Europe
+Norway,241,"175,2","20,3","8,8",2020,"35,4",362198000000.0,67330.0,progressive,Western Europe
+Oman,242,"167,1","37,7","9,1",2020,"20,8",73971391417.0,14485.0,proportional,Middle East and North Africa
+Pakistan,243,"105,4","74,3",12,2020,"44,1",300306000000.0,1360.0,progressive,South Asia
+Panama,244,"108,4","63,1","12,6",2020,"47,2",53977037000.0,12510.0,progressive,Latin America and Caribbean
+Peru,245,"85,5","84,1",15,2020,"68,2",201705000000.0,6117.0,progressive,Latin America and Caribbean
+Philippines,246,"85,4","74,3","24,6",2020,"42,2",361751000000.0,3301.0,progressive,Southeast Asia
+Poland,247,"141,8","54,5","11,4",2020,"28,5",596624000000.0,15742.0,progressive,Central and Eastern Europe
+Portugal,248,"162,9","30,9","12,7",2020,"29,6",228539000000.0,22195.0,progressive,Western Europe
+Qatar,249,"162,3","61,1","5,8",2020,"11,9",144411000000.0,50124.0,proportional,Middle East and North Africa
+Romania,250,"132,4","58,4","11,3",2020,"27,6",249511000000.0,12957.0,progressive,Central and Eastern Europe
+Russia,251,"102,3","62,8","10,8",2020,"41,1",1488320000000.0,10162.0,proportional,Commonwealth of Independent States
+Saudi Arabia,252,"150,6","65,1","2,8",2020,"26,2",703368000000.0,20204.0,progressive,Middle East and North Africa
+Serbia,253,"116,3","60,3","18,9",2020,"37,4",53335016425.0,7731.0,progressive,Central and Eastern Europe
+Singapore,254,"144,4","33,5","22,3",2020,"30,6",345296000000.0,60729.0,progressive,Southeast Asia
+Slovak Republic,255,"152,5","39,7","10,2",2020,"29,2",105173000000.0,19267.0,proportional,Central and Eastern Europe
+Slovenia,256,"172,2","24,1","10,5",2020,"21,1",53589609581.0,25490.0,progressive,Central and Eastern Europe
+South Africa,257,132,"57,3","3,9",2020,"77,5",1363481000000.0,9313.013625,progressive,Sub-Saharan Africa
+South Korea,258,139,"62,5","17,4",2020,28,1637900000000.0,31598.0,progressive,East Asia
+Spain,259,"169,8",40,"9,4",2020,32,1281480000000.0,27056.0,progressive,Western Europe
+Sri Lanka,260,"85,2","59,1","31,1",2020,"40,2",80969683537.0,3694.0,proportional,South Asia
+Sweden,261,"175,9","18,1","9,3",2020,"47,1",541487000000.0,52300.0,progressive,Western Europe
+Switzerland,262,192,"22,4","8,7",2020,"21,6",752248000000.0,87100.0,progressive,Western Europe
+Thailand,263,"101,9",75,"22,3",2020,"40,5",499682000000.0,7159.0,progressive,Southeast Asia
+Turkey,264,"127,1","67,4","7,8",2020,"39,5",719955000000.0,8536.0,progressive,Middle East and North Africa
+UAE,265,"156,7","51,2","5,3",2020,"15,7",384951500000.0,4904.327315,proportional,Middle East and North Africa
+Ukraine,266,"104,8","65,1","12,2",2020,"48,9",156618000000.0,3752.0,proportional,Commonwealth of Independent States
+United Kingdom,267,"162,7","40,6","10,1",2020,"43,7",2756900000000.0,41098.0,progressive,Western Europe
+United States,268,"172,1","36,9","3,5",2020,"47,2",329366600000.0,3562.932658,progressive,North America and ANZ
+Uruguay,269,126,"44,8","16,3",2020,"53,8",53560755047.0,15419.0,progressive,Latin America and Caribbean
+Vietnam,270,"87,5","86,5","21,4",2020,"45,3",343243000000.0,3526.0,progressive,Southeast Asia
+Argentina,271,"110,5","50,7","22,7",2021,"63,3",491493000000.0,10729.0,progressive,Latin America and Caribbean
+Australia,272,"181,5","23,5","7,4",2021,"42,4",1542660000000.0,59934.0,progressive,North America and ANZ
+Austria,273,"182,4","19,2","10,4",2021,"25,2",477082000000.0,53268.0,progressive,Western Europe
+Azerbaijan,274,"102,9","75,4","16,6",2021,"31,7",54622176471.0,5384.0,proportional,Commonwealth of Independent States
+Bangladesh,275,"65,3","84,9","14,4",2021,"64,2",416265000000.0,2503.0,progressive,South Asia
+Belarus,276,"107,3","44,5","16,8",2021,"60,3",68218816484.0,7304.0,proportional,Commonwealth of Independent States
+Belgium,277,"150,9","50,3","6,9",2021,"44,2",599879000000.0,51768.0,progressive,Western Europe
+Bosnia,278,"125,7","60,7","10,7",2021,43,22571512867.0,6916.0,proportional,Central and Eastern Europe
+Brazil,279,"104,7","54,5","16,1",2021,"67,8",1608980000000.0,7519.0,progressive,Latin America and Caribbean
+Bulgaria,280,"126,3","64,5",9,2021,"38,1",80271119426.0,11635.0,proportional,Central and Eastern Europe
+Canada,281,160,"28,1","7,5",2021,"41,2",1990760000000.0,52051.0,progressive,North America and ANZ
+Chile,282,"99,9",79,"17,6",2021,"52,1",317059000000.0,16503.0,progressive,Latin America and Caribbean
+China,283,"103,1","81,5",29,2021,"30,2",17734100000000.0,12556.0,progressive,East Asia
+China,284,"103,1","81,5",29,2021,"30,2",17734100000000.0,12556.0,progressive,East Asia
+Colombia,285,"101,3","62,9","18,7",2021,"55,8",314322000000.0,6131.0,progressive,Latin America and Caribbean
+Costa Rica,286,"121,7","44,1","10,1",2021,"55,3",64282438667.0,12509.0,progressive,Latin America and Caribbean
+Croatia,287,"156,1","30,6","14,2",2021,"24,9",67837788544.0,17399.0,progressive,Central and Eastern Europe
+Cyprus,288,"144,1","56,8","7,1",2021,32,27719337670.0,30798.0,progressive,Western Europe
+Czech Republic,289,"156,3","36,3","15,5",2021,"25,3",282341000000.0,26379.0,proportional,Central and Eastern Europe
+Denmark,290,190,"20,4","6,7",2021,"26,7",397104000000.0,67803.0,progressive,Western Europe
+Ecuador,291,"118,8","58,3","12,6",2021,"54,4",106166000000.0,5935.0,progressive,Latin America and Caribbean
+Egypt,292,"86,3","84,3","13,6",2021,"46,8",1500112000000.0,29288.870439,progressive,Middle East and North Africa
+Estonia,293,"173,6",19,"9,1",2021,"23,4",36262924354.0,27281.0,proportional,Central and Eastern Europe
+Finland,294,"182,8","11,9","8,6",2021,27,299155000000.0,53983.0,progressive,Western Europe
+France,295,"150,7","41,8","13,5",2021,"49,2",2937470000000.0,43519.0,progressive,Western Europe
+Georgia,296,"118,9","69,7","14,2",2021,"22,6",18700241392.0,5042.0,proportional,Commonwealth of Independent States
+Germany,297,"176,8","27,5","9,1",2021,"35,4",4223120000000.0,50802.0,progressive,Western Europe
+Greece,298,"129,9","51,9","10,1",2021,"44,1",216241000000.0,20277.0,progressive,Western Europe
+Hong Kong,299,"99,3","67,3","45,2",2021,"21,7",368139000000.0,49661.0,proportional,East Asia
+Hungary,300,134,"47,8","11,6",2021,"34,8",182281000000.0,18773.0,progressive,Central and Eastern Europe
+Iceland,301,"179,1","16,2","6,3",2021,"24,1",25458933916.0,68384.0,progressive,Western Europe
+India,302,"104,5","79,6","11,3",2021,"44,7",16914290000.0,4994.971551,progressive,South Asia
+Indonesia,303,"90,1","67,1",22,2021,"46,2",1186090000000.0,4292.0,progressive,Southeast Asia
+Iran,304,"64,7","76,1","34,2",2021,"49,2",,,proportional,Middle East and North Africa
+Ireland,305,"150,9","33,6","7,4",2021,45,498560000000.0,99152.0,progressive,Western Europe
+Israel,306,"144,1","58,4","13,7",2021,"31,2",481591000000.0,51430.0,progressive,Middle East and North Africa
+Italy,307,"138,6","53,9","9,5",2021,"44,4",2099880000000.0,35551.0,progressive,Western Europe
+Japan,308,"162,3","39,4",13,2021,22,4937420000000.0,39285.0,progressive,East Asia
+Jordan,309,114,"76,1",8,2021,"40,7",45243661972.0,4406.0,progressive,Middle East and North Africa
+Kenya,310,"75,8","75,9","27,3",2021,"61,4",110347000000.0,2007.0,progressive,Sub-Saharan Africa
+Latvia,311,"147,6","33,9","8,5",2021,"37,2",38872546229.0,20642.0,proportional,Central and Eastern Europe
+Lebanon,312,"94,5","89,3","14,1",2021,47,18076624840.0,2670.0,progressive,Middle East and North Africa
+Lithuania,313,160,27,11,2021,"33,8",65503849705.0,23433.0,proportional,Central and Eastern Europe
+Malaysia,314,"116,9","62,6","9,9",2021,"57,9",372701000000.0,11371.0,progressive,Southeast Asia
+Mexico,315,"120,3","61,2","10,5",2021,55,320837600000.0,43731.106825,progressive,Latin America and Caribbean
+Morocco,316,"104,4","70,4","13,5",2021,"49,1",132725000000.0,3497.0,progressive,Middle East and North Africa
+Netherlands,317,"183,3","25,3","7,4",2021,"27,2",1018010000000.0,58061.0,progressive,Western Europe
+New Zealand,318,"175,8","23,8","8,1",2021,"42,3",417983600000.0,5253.42656,progressive,North America and ANZ
+Nigeria,319,52,"87,3",,2021,"63,9",440777000000.0,2085.0,progressive,Sub-Saharan Africa
+North Macedonia,320,"108,5",80,"12,7",2021,"38,6",13879269152.0,6721.0,progressive,Central and Eastern Europe
+Norway,321,"173,6","18,1","8,5",2021,"33,4",332441700000.0,3519.87324,progressive,Western Europe
+Oman,322,"172,1","37,6","5,8",2021,"20,3",1276787000000.0,8704.898413,proportional,Middle East and North Africa
+Pakistan,323,"105,1","73,4","12,6",2021,"43,9",346343000000.0,1538.0,proportional,South Asia
+Panama,324,"110,3","59,8","12,3",2021,"45,8",63605065800.0,14516.0,progressive,Latin America and Caribbean
+Peru,325,"83,3","82,7","16,9",2021,"66,6",223249000000.0,6692.0,progressive,Latin America and Caribbean
+Philippines,326,"78,4","74,1","30,1",2021,"42,2",394086000000.0,3549.0,progressive,Southeast Asia
+Poland,327,"132,6","54,3",14,2021,"29,3",674048000000.0,17841.0,progressive,Central and Eastern Europe
+Portugal,328,"161,9","29,6","12,7",2021,"29,9",249886000000.0,24262.0,progressive,Western Europe
+Puerto Rico,329,"130,8","50,4","3,6",2021,"63,4",,,proportional,Latin America and Caribbean
+Qatar,330,"154,6","60,2",6,2021,"12,3",179571000000.0,61276.0,proportional,Middle East and North Africa
+Russia,331,"101,7","62,3","11,1",2021,"40,1",1775800000000.0,12173.0,proportional,Commonwealth of Independent States
+Saudi Arabia,332,"147,4","64,1","2,6",2021,"25,9",833541000000.0,23586.0,progressive,Middle East and North Africa
+Serbia,333,"116,2","61,2","17,1",2021,"38,3",63068134601.0,9215.0,progressive,Central and Eastern Europe
+Singapore,334,"143,8","33,2","19,4",2021,33,396987000000.0,72794.0,progressive,Southeast Asia
+Slovak Republic,335,"149,7","39,1","11,1",2021,"29,7",114871000000.0,21088.0,proportional,Central and Eastern Europe
+Slovenia,336,"168,2","22,7","10,9",2021,"21,8",61526331889.0,29201.0,progressive,Central and Eastern Europe
+South Africa,337,"132,2",57,4,2021,"77,1",419946000000.0,6994.0,progressive,Sub-Saharan Africa
+South Korea,338,130,"61,8","23,6",2021,"26,9",1798530000000.0,34758.0,progressive,East Asia
+Spain,339,"164,5","39,6","9,6",2021,"33,1",1425280000000.0,30116.0,progressive,Western Europe
+Sri Lanka,340,"79,8","59,9",35,2021,"41,2",84518830393.0,3815.0,progressive,South Asia
+Sweden,341,"171,4","18,4","8,6",2021,"47,2",627438000000.0,60239.0,progressive,Western Europe
+Switzerland,342,"190,8","20,1","8,4",2021,"21,3",812867000000.0,93457.0,progressive,Western Europe
+Thailand,343,"100,3","75,4","22,2",2021,"39,4",505982000000.0,7233.0,progressive,Southeast Asia
+Turkey,344,126,"66,2","8,2",2021,"39,5",815272000000.0,9587.0,progressive,Middle East and North Africa
+UAE,345,156,"50,4","4,9",2021,"15,4",,,proportional,Middle East and North Africa
+Ukraine,346,"107,4","64,3","10,8",2021,"48,3",200086000000.0,4836.0,proportional,Commonwealth of Independent States
+United Kingdom,347,159,"40,2","9,6",2021,"45,3",3186860000000.0,47334.0,progressive,Western Europe
+United States,348,167,"38,9",4,2021,"47,7",22996100000000.0,69288.0,progressive,North America and ANZ
+Uruguay,349,"124,6","45,7","17,3",2021,"51,2",59319547636.0,17021.0,progressive,Latin America and Caribbean
+Vietnam,350,"88,4","85,9","20,6",2021,"46,1",362638000000.0,3694.0,progressive,Southeast Asia
